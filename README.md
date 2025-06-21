@@ -17,7 +17,7 @@ A simple web page for showcasing your resume using CSS.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/Resume.git
+   git clone https://github.com/Deepanshu-Khandelwal/Resume.git
    ```
 
 2. Open the `index.html` file in your browser.
@@ -30,7 +30,7 @@ Example code snippet for modifying the profile section:
 
 ```html
 <section id="profile">
-    <h2>Your Name</h2>
+    <h2>Deepanshu Khandelwal</h2>
     <p>Web Developer</p>
 </section>
 ```
