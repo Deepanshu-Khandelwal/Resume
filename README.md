@@ -1,9 +1,9 @@
 # Resume Web Page
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/Resume)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/Resume)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Resume)
-![Primary Language](https://img.shields.io/github/languages/top/your-username/Resume)
+![GitHub repo size](https://img.shields.io/github/repo-size/Deepanshu-Khandelwal/Resume)
+![GitHub contributors](https://img.shields.io/github/contributors/Deepanshu-Khandelwal/Resume)
+![GitHub last commit](https://img.shields.io/github/last-commit/Deepanshu-Khandelwal/Resume)
+![Primary Language](https://img.shields.io/github/languages/top/Deepanshu-Khandelwal/Resume)
 
 A simple web page for showcasing your resume using CSS.
 
@@ -47,10 +47,6 @@ This project does not have any external dependencies.
 4. Commit your changes (`git commit -am 'Add new feature'`)
 5. Push to the branch (`git push origin feature`)
 6. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Resume Web Page 
 
